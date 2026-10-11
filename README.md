@@ -15,7 +15,7 @@ A collection of beginner-friendly Python/Jupyter exercises focused on data clean
 | `Project 7 - Udemy/` | Udemy data | Explore course-related data |
 | `Project 8 - Netflix/` | Netflix data | Explore a streaming-catalog dataset |
 
-Each project folder generally contains a notebook and its supporting CSV file. Check the notebook's first cells for the exact questions and analysis because this README describes the broad project themes.
+Most project folders contain a notebook and its supporting CSV file. **Project 8 - Netflix is an exception:** the notebook is included, but `netflix.csv` is not redistributed because its original source and redistribution license have not been verified. Obtain it from its original publisher, review the terms, and place it next to the notebook before running it. The notebook now reports a clear error when the local file is missing. Check each notebook's first cells for the exact questions and analysis because this README describes broad project themes.
 
 ## Repository layout
 
@@ -58,3 +58,8 @@ The projects were inspired by tutorial material: [YouTube playlist](https://yout
 ## Author
 
 Kunal Goyal — [GitHub profile](https://github.com/KunalGoyal0601)
+
+
+## Dataset licensing note
+
+Do not add third-party CSV files to this repository until the original source and redistribution terms are confirmed. For the Netflix exercise, keep the dataset local and record its source URL and license in your own notes. The notebook is a learning exercise; several question prompts are intentionally not fully implemented yet.
