@@ -15,7 +15,7 @@ A collection of beginner-friendly Python/Jupyter exercises focused on data clean
 | `Project 7 - Udemy/` | Udemy data | Explore course-related data |
 | `Project 8 - Netflix/` | Netflix data | Explore a streaming-catalog dataset |
 
-Most project folders contain a notebook and its supporting CSV file. **Project 8 - Netflix is an exception:** the notebook is included, but `netflix.csv` is not redistributed because its original source and redistribution license have not been verified. Obtain it from its original publisher, review the terms, and place it next to the notebook before running it. The notebook now reports a clear error when the local file is missing. Check each notebook's first cells for the exact questions and analysis because this README describes broad project themes.
+The notebooks are retained, but the seven raw CSV files for Projects 1–7 are no longer bundled because the exact source/release and redistribution terms could not be verified. **Project 8 - Netflix is an exception:** the notebook is included, but `netflix.csv` is not redistributed because its original source and redistribution license have not been verified. Obtain it from its original publisher, review the terms, and place it next to the notebook before running it. The notebook now reports a clear error when the local file is missing. Check each notebook's first cells for the exact questions and analysis because this README describes broad project themes.
 
 ## Repository layout
 
@@ -39,7 +39,8 @@ Jupyter checkpoint copies have been removed from the current branch. The Netflix
 1. Clone or download the repository.
 2. Create a Python virtual environment.
 3. Install Jupyter, pandas, and the visualization libraries required by a specific notebook.
-4. Open the selected notebook and check its relative CSV paths before running all cells.
+4. Obtain the dataset from its original publisher and review its license/terms.
+5. Place the licensed CSV next to the notebook. Each notebook now raises an actionable error if its local CSV is missing. Do not commit the CSV unless you have verified redistribution permission.
 
 Example:
 
