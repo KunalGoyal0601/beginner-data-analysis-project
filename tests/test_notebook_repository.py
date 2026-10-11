@@ -39,7 +39,7 @@ class NotebookRepositoryTests(unittest.TestCase):
             with self.subTest(project=project):
                 self.assertIn("load_local_csv", source)
                 self.assertIn("FileNotFoundError", source)
-                self.assertIn("not redistributed", source)
+                self.assertIn("reuse terms have not been verified", source)
                 self.assertFalse((folders[0] / filename).exists())
 
     def test_netflix_missing_data_has_actionable_message(self):
