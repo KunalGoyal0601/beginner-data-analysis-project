@@ -63,3 +63,8 @@ Kunal Goyal — [GitHub profile](https://github.com/KunalGoyal0601)
 ## Dataset licensing note
 
 Do not add third-party CSV files to this repository until the original source and redistribution terms are confirmed. For the Netflix exercise, keep the dataset local and record its source URL and license in your own notes. The notebook is a learning exercise; several question prompts are intentionally not fully implemented yet.
+
+
+## Dataset provenance and redistribution
+
+The notebooks are based on a tutorial playlist, but this repository does not yet record the original download URL and redistribution terms for each of the CSV files in Projects 1–7. Before reusing or redistributing those files, verify the source and license for each one. A tutorial link or public download alone is not a redistribution license. If permission cannot be confirmed, remove the affected CSV from the public repository and document how readers can obtain it from the original publisher. The Netflix CSV is intentionally not included until its source and terms are verified.
