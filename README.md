@@ -13,6 +13,7 @@ A collection of beginner-friendly Python/Jupyter exercises focused on data clean
 | `Project 5 - London housing/` | London housing | Clean and explore housing-related data |
 | `Project 6 - Census/` | Census data | Practice descriptive analysis of census variables |
 | `Project 7 - Udemy/` | Udemy data | Explore course-related data |
+| `Project 8 - Netflix/` | Netflix data | Explore a streaming-catalog dataset |
 
 Each project folder generally contains a notebook and its supporting CSV file. Check the notebook's first cells for the exact questions and analysis because this README describes the broad project themes.
 
@@ -27,11 +28,11 @@ beginner-data-analysis-project/
 ├── Project 5 - London housing/
 ├── Project 6 - Census/
 ├── Project 7 - Udemy/
-├── Project 8 - Netflix/  (if/when its notebook is added)
+├── Project 8 - Netflix/
 └── README.md
 ```
 
-Jupyter checkpoint files are editor-generated temporary copies and should not be used as the main version of a notebook. They are ignored for future additions via `.gitignore`; historical tracked copies can be removed in a separate verified cleanup.
+Jupyter checkpoint copies have been removed from the current branch. The Netflix notebook, which previously existed only as a checkpoint, has been preserved under `Project 8 - Netflix/`.
 
 ## Getting started
 
