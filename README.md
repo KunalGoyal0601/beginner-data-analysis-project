@@ -15,7 +15,7 @@ A collection of beginner-friendly Python/Jupyter exercises focused on data clean
 | `Project 7 - Udemy/` | Udemy data | Explore course-related data |
 | `Project 8 - Netflix/` | Netflix data | Explore a streaming-catalog dataset |
 
-The notebooks are retained, but the seven raw CSV files for Projects 1–7 are no longer bundled because the exact source/release and redistribution terms could not be verified. **Project 8 - Netflix is an exception:** the notebook is included, but `netflix.csv` is not redistributed because its original source and redistribution license have not been verified. Obtain it from its original publisher, review the terms, and place it next to the notebook before running it. The notebook now reports a clear error when the local file is missing. Check each notebook's first cells for the exact questions and analysis because this README describes broad project themes.
+The notebooks are retained, but the raw CSV files for Projects 1–7 are not bundled because the exact source/release and redistribution terms could not be verified. Project 8 - Netflix also requires a local `netflix.csv`; it is not redistributed until its source and reuse terms are confirmed. Obtain each dataset from its original publisher, review its terms, and place the permitted CSV next to the relevant notebook. The loading cells provide an actionable error when a file is missing. Check each notebook's first cells for the exact questions and analysis because this README describes broad project themes.
 
 ## Repository layout
 
