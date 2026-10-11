@@ -37,3 +37,13 @@ Thumbs.db
 # Build output
 build/
 dist/
+
+# Local datasets: do not commit without verified redistribution rights
+Project 1 - Weather/weather.csv
+Project 2 - Cars/car.csv
+Project 3 - Police/police.csv
+Project 4 - Covid19/covid.csv
+Project 5 - London housing/london.csv
+Project 6 - Census/census.csv
+Project 7 - Udemy/udemy.csv
+Project 8 - Netflix/netflix.csv
